@@ -3,3 +3,5 @@ git init
 git status
 git add
 git commit
+i created my first git branch
+im learning
