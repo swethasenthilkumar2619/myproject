@@ -1,2 +1,4 @@
 Hello Git
 This is my first project.
+
+im learning git step by step
