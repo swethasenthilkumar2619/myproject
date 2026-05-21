@@ -1,0 +1,5 @@
+Git comments I learned:
+git init
+git status
+git add
+git commit
