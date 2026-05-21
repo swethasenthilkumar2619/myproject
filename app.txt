@@ -2,4 +2,9 @@ Hello Git
 This is my first project.
 
 im learning git step by step
+<<<<<<< HEAD
 This line is from main branch
+=======
+this line is from conflict-demo branch
+>>>>>>> conflict-demo
+this line combines both branches
